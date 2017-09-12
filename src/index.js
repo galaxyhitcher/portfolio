@@ -11,21 +11,12 @@ import WeatherApp from './components/WeatherApp/src/App.js';
 import registerServiceWorker from './registerServiceWorker';
 
 
-// class WeatherApp extends Component {
-//   render() {
-//     return (
-//       <div>
-//         <h1>This is the Weather App!</h1>
-//       </div>
-//     );
-//   }
-// }
-
 class FullStackApps extends Component {
   render() {
     return (
       <div>
         <h1>These are the Full Stack Applications!</h1>
+      still working@
       </div>
     )
   }
